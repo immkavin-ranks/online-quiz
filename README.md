@@ -22,6 +22,8 @@ This is an `online platform` for hosting quizzes, tests, and assessments. The pl
 ```
 MONGO URI = "mongodb+srv :// techplement:techplement@cluster0.fymoz6o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
+# for mongo_uri: Please contact me!
+
 PORT = 5000
 JWT SECRET = "techplement"
 ```
